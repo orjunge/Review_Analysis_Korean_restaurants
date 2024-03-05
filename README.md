@@ -1,6 +1,6 @@
 # ⚙️ 환경 및 데이터셋 출처
 - Python 3.9.13
-[Kaggle 한식당 리뷰] (https://www.kaggle.com/datasets/ninetyninenewton/kr3-korean-restaurant-reviews-with-ratings)
+- [Kaggle 한식당 리뷰](https://www.kaggle.com/datasets/ninetyninenewton/kr3-korean-restaurant-reviews-with-ratings)
   - CC BY-NC-SA 4.0
 
 # 🚩 프로젝트 기획 및 목표
