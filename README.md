@@ -1,6 +1,7 @@
 # Review_Analysis_Korean_restaurants
 "한식당 고객 리뷰"를 분석한 결과로 운영 지표를 제시하여 한식당 창업을 고려하는 고령층에게 도움을 드리는 것을 목표로 진행했던 리뷰분석 코드입니다. 
 
+
 # ⚙️ 환경 및 데이터셋 출처
 - Python 3.9.13
 - [Kaggle 한식당 리뷰](https://www.kaggle.com/datasets/ninetyninenewton/kr3-korean-restaurant-reviews-with-ratings)
